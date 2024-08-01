@@ -10,4 +10,11 @@ There are heavy ETL transformations and logic done in Snowflake.
 - QuickSight
   
 ## Data Warehousing
-This project depends heavily on the use of Snowflake for data warehousing. All transactions and user activity are exported into Snowflake and used for futher analysis.
+This project depends heavily on the use of Snowflake for data warehousing. All transactions and user activity are exported into Snowflake and used for futher analysis. The ETL done in this project uses
+Matillion ETL.
+
+## High Level Architecture
+![Architecture](https://github.com/tal-sabas/aws-projects/blob/master/Subscription%20Manager/Subscription%20Manager.png)
+
+## App Screenshot
+![App](https://github.com/tal-sabas/aws-projects/blob/master/Subscription%20Manager/Subscription%20Manager%20Screenshot.png)
