@@ -6,7 +6,7 @@
 ## Relevant AWS Services Used
 - AWS Glue
 - Lambda
-- Athena
+- Athena/S3
 - Tableau
 - QuickSight
 - Kinesis
