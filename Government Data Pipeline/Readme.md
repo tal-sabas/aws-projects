@@ -12,3 +12,5 @@
 - Kinesis
 - Amplify
 - Cognito
+
+![diagram](https://github.com/tal-sabas/aws-projects/blob/master/Government%20Data%20Pipeline/Government%20Data%20Project.png)
